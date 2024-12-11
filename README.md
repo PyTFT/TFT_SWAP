@@ -4,7 +4,7 @@
 
 ![云顶一键换位](img/ui.png)
 
-https://raw.githubusercontent.com/PyTFT/media/refs/heads/main/swap/swap.mp4
+[![换位](ttps://raw.githubusercontent.com/PyTFT/media/refs/heads/main/swap/swap.mp4)
 
 ## 使用说明
 
