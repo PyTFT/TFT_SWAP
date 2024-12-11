@@ -4,9 +4,7 @@
 
 ![云顶一键换位](img/ui.png)
 
-<video src="https://raw.githubusercontent.com/PyTFT/media/refs/heads/main/swap/swap.mp4" controls>
-  您的浏览器不支持 video 标签。
-</video>
+https://raw.githubusercontent.com/PyTFT/media/refs/heads/main/swap/swap.mp4
 
 ## 使用说明
 
@@ -30,7 +28,7 @@
 - PyDirectInput==1.0.4
 - PySide6==6.8.1
 
-#  运行
+##  运行
 
 在项目根目录下以管理员权限运行
 ```bash
