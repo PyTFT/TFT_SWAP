@@ -4,7 +4,9 @@
 
 ![云顶一键换位](img/ui.png)
 
-[![换位](ttps://raw.githubusercontent.com/PyTFT/media/refs/heads/main/swap/swap.mp4)
+<video src="img/swap.mp4" controls>
+  您的浏览器不支持 video 标签。
+</video>
 
 ## 使用说明
 
