@@ -4,7 +4,7 @@
 
 ![云顶一键换位](img/ui.png)
 
-![云顶一键换位](img/swap.mp4)
+https://github.com/user-attachments/assets/6995c244-c168-4165-8c5b-96128ae49b67
 
 ## 使用说明
 
