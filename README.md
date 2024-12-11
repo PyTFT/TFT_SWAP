@@ -4,9 +4,7 @@
 
 ![云顶一键换位](img/ui.png)
 
-<video src="img/swap.mp4" controls>
-  您的浏览器不支持 video 标签。
-</video>
+![云顶一键换位](img/swap.mp4)
 
 ## 使用说明
 
